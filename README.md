@@ -10,4 +10,3 @@ Currently, two official plugins are available:
 - # RUN
 - npm install
 - npm run dev
-- 
